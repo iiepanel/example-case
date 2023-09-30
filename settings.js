@@ -7,15 +7,15 @@ global.APIs = {
 
 // Apikey
 global.APIKeys = {
-	'https://api.zeeoneofc.my.id': 'Your Key',
+	'https://api.zeeoneofc.my.id': 'XtLshHVQVFupZwZ',
 }
 
-global.namabot = "Bot Store"
+global.namabot = "Bot Xd"
 global.namaowner = "Zeeoneofc"
-global.packname = namabot
-global.author = namaowner
+global.packname = Akbar-Xd
+global.author = AKBAR OFFC
 global.myweb = "https://s.id/zeeoneofc"
-global.footer_text = "© " + namabot
+global.footer_text = "© " + Xd Bot
 global.pp_bot = fs.readFileSync("./image/foto.jpg")
 global.qris = fs.readFileSync("./image/qris.jpg")
 global.owner = ['62887435047326']
@@ -25,8 +25,8 @@ global.prefa = ['-_-']
 global.grup_only = false //bot hanya bisa di gunakan dalam grup jika true
 global.mess = {
     done: 'Done ✅',
-    wait: '_⌛ Sedang di proses_',
-    admin: '_Fitur Khusus Admin Group_',
+    wait: '_SABAR MASS MASIH PROSES_',
+    admin: '_Fitur Khusus Admin Akbar-Xd_',
     botNotAdmin: '_Jadikan Bot Sebagai Admin Terlebih Dahulu_',
     owner: '_Fitur Khusus Owner Bot_',
     group: '_Fitur Khusus Dalam Group_',
